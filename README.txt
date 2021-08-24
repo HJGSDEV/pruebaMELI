@@ -27,3 +27,5 @@ CREATE SEQUENCE public.seq_mutant_pk
 4. el puerto para ejecutarlo es el 8888 las dos uri creadas son:
 	metodo post: http://localhost:8888/mutant/
 	metodo get: http://localhost:8888/mutant/stats
+5. consumo desde postman
+	["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
